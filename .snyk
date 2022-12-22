@@ -1,5 +1,6 @@
+version: v1.25.0
 ignore:
-    'SNYK-JS-KNEX-3175610':
+  SNYK-JS-KNEX-3175610:
     - '*':
       reason: NoReason
       expires: 2023-01-01T00:00:00.000Z
