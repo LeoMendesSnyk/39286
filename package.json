@@ -236,7 +236,7 @@
     "request": "2.88.2",
     "requestretry": "^7.0.2",
     "samlify": "2.8.6",
-    "sequelize": "^6.19.1",
+    "sequelize": "^6.29.0",
     "source-map-support": "^0.5.19",
     "speakeasy": "^2.0.0",
     "sqs-consumer": "^5.5.0",
